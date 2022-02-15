@@ -1,0 +1,1 @@
+GET https://api.hypixel.net/key?key=cd6675fb-ca9f-4da7-85a4-65d5161b5d1f
